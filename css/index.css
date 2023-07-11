@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.cms-landings{
+    position: relative;
+}
+.home{
+    background-color: #13161c;
+}
+#header-v2{
+top: 0;
+width: 100%;
+height: 52px;
+font-size: 13px;
+color: #fff;
+right: 0;
+position: relative;
+}
+.header-v2-content{
+    display: grid;
+}
+.nav-header{
+    display: flex;
+    position: relative;
+    align-items: center;
+    padding-right: 12px;
+    
+}
+.logo{
+    display: grid;
+    padding-left: 12px;
+}
+.logo-header{
+    position: relative;
+}
+.logoheader-container{
+    display: flex;
+    align-items: center;
+}
+.logoheader-name{
+    margin-left: 0.25rem;
+}
+
+.nav-header-mobilectas-actions{
+    display: flex;
+    flex: 100%;
+    gap: 1rem;
+    justify-content: end;
+}
+.button-medium{
+    font-size: 0.875rem;
+}
+.button{
+    border-radius: 0.5rem;
+    cursor: pointer;
+    display: inline-block;
+    line-height: 1.6;
+    text-decoration: none;
+}
+.Nav-header-mobilectas-actions--join{
+    background-color: #fff;
+    border: 1px solid #fff;
+    color: #000;
+    font-weight: 600;
+    padding: 0.25rem 0.5rem;
+}
+.Nav-header-mobilectas-actions--login{
+    color: #fff;
+    font-weight: 600;
+    background-color: initial;
+    padding: 0.25rem 0.5rem;
+    border: 0;
+}
+.menu{
+    padding: 0.5rem 0.5rem;
+}
+svg{
+    width: 27px;
+    height: 27px;
+    border: 1px solid #fff;
+    background-color: black;
+}
