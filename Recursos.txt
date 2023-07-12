@@ -1,3 +1,4 @@
 SVG-GRATUITOS: https://www.svgrepo.com/
 OBTENER CÓDIGOS DE COLOR HTML: https://htmlcolorcodes.com/es/
 SELECTORES DE PSEUDOCLASE: https://css-tricks.com/pseudo-class-selectors/
+DOCUMENTACIÓN DE MDN: https://developer.mozilla.org/en-US/
