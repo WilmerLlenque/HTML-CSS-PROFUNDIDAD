@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.div{
+    width: 500px;
+    height: 200px;
+    margin: auto;
+    border: 3px solid red;
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.texto p{
+    color: blue;
+}
+.texto pre{
+    display: flex;
+    justify-content: center;
+}
+pre{
+    color: darkred;
+    text-align: justify;
+}
+.texto blockquote{
+    text-align: justify;
+}
+.texto ol{
+    text-align: justify;
+    margin-left: 25px;
+}
+.div-lista-ordenada{
+    height: 430px;
+}
+.texto ul{
+    text-align: justify;
+    margin-left: 25px;
+}
+
+
+
