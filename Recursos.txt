@@ -9,3 +9,4 @@ GUIA COMPLETA DE CSS GRID: https://css-tricks.com/snippets/css/complete-guide-gr
 DOCUMENTACIÓN DE HTML: https://htmlreference.io/
 DOCUMENTACIÓN DE CSS: https://cssreference.io/
 CONVERTIDOR DE ARCHIVOS PNG A ICO EN LINEA: https://convertico.com/es/
+RECURSOS PARA DISEÑADORES, DESARROLLADORES Y CREADORES DE LA WEB: https://blog.faztweb.com/2018/03/recursos-para-disenadores-y.html
