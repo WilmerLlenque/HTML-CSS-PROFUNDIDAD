@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <form action="">
+        <fieldset>
+            <legend>Datos Personales:</legend>
+            <label for="name">Nombre:</label>
+            <input type="text" id="name"><br><br>
+            <label for="apellidos">Apellidos:</label>
+            <input type="text" id="apellidos"><br><br>
+            <label for="correo">Correo:</label>
+            <input type="text" id="correo"><br><br>
+            <label for="pais">Pais</label>
+            <select name="pais" id="pais">
+                <option value="Peru">Perú</option>
+                <option value="Argentina">Argentina</option>
+                <option value="Brasil">Brasil</option>
+                <option value="Colombia">Colombia</option>
+                <option value="Ecuador">Ecuador</option>
+            </select><br><br>
+            <label for="carrera-universitaria">Carrera Universitaria</label>
+            <input list="carreras" id="carrera-universitaria" placeholder="Elegir carrera universitaria">
+            <datalist id="carreras">
+                <option value="Ingenieria Civil">Ingenieria Civil</option>
+                <option value="Ingenieria de Sistemas">Ingenieria de Sistemas</option>
+                <option value="Arquitectura">Arquitectura</option>
+            </datalist><br><br>
+            <progress value="50" max="100">Progreso en JAVA</progress>
+            <label for="comentario">Comentario:</label><br><br>
+            <textarea name="comentario" id="comentario" cols="50" rows="10" minlength="15"
+                maxlength="500"></textarea><br><br>
+            <button>Enviar</button>
+        </fieldset>
+    </form>
+</body>
+
+</html>
