@@ -1,5 +1,6 @@
 SVG-GRATUITOS: https://www.svgrepo.com/
 OBTENER CÓDIGOS DE COLOR HTML: https://htmlcolorcodes.com/es/
+OBTENER CÓDIGOS DE COLORES: https://flatuicolors.com/ 
 SELECTORES DE PSEUDOCLASE: https://css-tricks.com/pseudo-class-selectors/
 DOCUMENTACIÓN DE MDN: https://developer.mozilla.org/en-US/
 EN ESTE ENLACE PODEMOS CALCULAR LA ESPECIFICIDAD DE NUESTRAS REGLAS: https://specificity.keegan.st/
