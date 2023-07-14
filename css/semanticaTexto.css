@@ -1,0 +1,22 @@
+#span-principal{
+    font-weight: bold;
+    font-size: 23px;
+}
+#red-text{
+    color: red;
+}
+#green-text{
+    color: green;
+}
+.highlighted{
+    background-color: lightblue;
+    font-style: italic;
+}
+
+a{
+    color: blue;
+    text-decoration: none;
+}
+mark{
+    background-color: cadetblue;
+}
