@@ -10,3 +10,4 @@ DOCUMENTACIÓN DE HTML: https://htmlreference.io/
 DOCUMENTACIÓN DE CSS: https://cssreference.io/
 CONVERTIDOR DE ARCHIVOS PNG A ICO EN LINEA: https://convertico.com/es/
 RECURSOS PARA DISEÑADORES, DESARROLLADORES Y CREADORES DE LA WEB: https://blog.faztweb.com/2018/03/recursos-para-disenadores-y.html
+GUIA PARA ESCRIBIR HTML RAPIDO CON ATAJOS DE EMMET: https://www.freecodecamp.org/espanol/news/untitled-11/#:~:text=Para%20crear%20etiquetas%20HTML%20b%C3%A1sicas,h1%20Enter%20%2C%20o%20p%20Enter%20.
